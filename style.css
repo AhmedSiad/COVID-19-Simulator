@@ -1,0 +1,12 @@
+#canvas {
+    display: inline-block;
+}
+
+#plot {
+    display: inline-block;
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
